@@ -8,3 +8,7 @@ Aplicacion realizada en React Native que te ayudara a tomar decisiones hacer de 
 - Crear un nuevo flujo para la comparacion entre distintos tipos de financiamiento.
 - Parametrizacion de la tasa de interes.
 - Introducir la inflacion en el calculo de las operaciones.
+
+## Demo
+
+![alt text](./demo.gif?raw=true)
